@@ -26,6 +26,10 @@ elif choice == "0":
      newEmail = input("Email address: ")
      newPassword = input("Password: ")
 
+elif choice == "time" or "timing":
+     pass
+     # get webDelay for main script
+
 else:
      print("Your selection was not found")
 
